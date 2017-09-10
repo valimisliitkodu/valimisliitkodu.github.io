@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**KODU pikaajaline visioon Saku vallast 2025**
+## KODU pikaajaline visioon Saku vallast 2025
 
 1. Saku on looduskaunis vald, kus igal lapsel on turvaline koolitee. Lasteaiad ja koolid pakuvad elus edukalt toimetulemiseks vajalikku haridust.
 2. Liikumisharrastusteks ehitame uusi terviseradasid ja kergliiklusteid ning loome terviseväljakuid õues treenimiseks.

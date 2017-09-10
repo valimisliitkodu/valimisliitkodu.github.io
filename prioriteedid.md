@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Meie prioriteedid eesolevaks 4 aastaks Saku valla arendamisel**
+## Meie prioriteedid eesolevaks 4 aastaks Saku valla arendamisel
 
 * **VALLAELU KORRALDAMINE**. Otsuste tegemises tugevdame volikogu positsiooni, kaasame aktiivsed kodanikud ja vabaühendused volikogu komisjonide töösse, toetame noortevolikogu, eakate nõukogu ning korteriühistute ümarlaua käivitamist
 * **VALLA JUHTIMINE**. Lihtsustame ja kiirendame asjaajamist vallavalitsuses ning muudame AS Saku Maja efektiivsemaks kommunaalteenuste pakkujaks
