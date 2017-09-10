@@ -3,7 +3,7 @@ layout: default
 title: Tegevused
 ---
 
-## Avatud valla valitsemine ja tasemele teenused, väärtustatud kogukondlikud algatused
+## Avatud valla valitsemine ja tasemel teenused, väärtustatud kogukondlikud algatused
 
 Valla kui omavalitsuse olemise mõte on kohaliku elu edendamine, milleks on vältimatu elanike kaasamine. Vallavalitsuse poolt peab elanike teenindamine olema selge, sujuv ja sõbralik.
 
