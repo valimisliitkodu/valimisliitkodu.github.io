@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Inimesed
 ---
 <div id="inimesed">
 {% for inimene in site.inimesed %}

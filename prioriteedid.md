@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Prioriteedid
 ---
 
 ## Meie prioriteedid eesolevaks 4 aastaks Saku valla arendamisel

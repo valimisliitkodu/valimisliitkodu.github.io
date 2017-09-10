@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Visioon
 ---
 
 ## KODU pikaajaline visioon Saku vallast 2025
