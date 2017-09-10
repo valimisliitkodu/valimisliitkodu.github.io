@@ -10,8 +10,3 @@ layout: default
 </div>
 {% endfor %}
 </div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.1.0/lazyload.min.js"></script>
-<script>
-	new LazyLoad();
-</script>
