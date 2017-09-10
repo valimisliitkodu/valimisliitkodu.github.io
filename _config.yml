@@ -18,3 +18,66 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Inimesed
+inimesed:
+  - kood: 192
+    nimi: Lemmi Oro
+    amet: Rahandusministeerium, osakonnajuhataja
+  - kood: 193
+    nimi: Mall Petersen
+    amet: Saku Tervisekeskus, perearst
+  - kood: 194
+    nimi: Sirje Peterson
+    amet: Saku Tervisekeskus, perearst
+  - kood: 195
+    nimi: Merike Sisask
+    amet: Tallinna Ülikool, sotsiaaltervishoiu professor
+  - kood: 196
+    nimi: Ahto Lutter
+    amet: Tehnik-mehaanik, ettevõtja Kurtnas
+  - kood: 197
+    nimi: Lembit Makstin
+    amet: teedeinsener, ettevõtja
+  - kood: 198
+    nimi: Kairi Zaletajev
+    amet: Saku Gümnaasium, õpetaja
+  - kood: 199
+    nimi: Anne Laos
+    amet: kinnisvarahalduse asjatundja
+  - kood: 200
+    nimi: Tiina Ruut
+    amet: Saku Tervisekeskus, pereõde
+  - kood: 201
+    nimi: Argo Zirk
+    amet: Saku Sporting, jalgpallitreener
+  - kood: 202
+    nimi: Jan Harend
+    amet: Saku Sporting, jalgpallitreener
+  - kood: 203
+    nimi: Herlent Krik
+    amet: üliõpilane, Saku Sportingu jalgpallur
+  - kood: 204
+    nimi: Hanna-Lisa Kuslap
+    amet: Saku Gümnaasiumi õpilane, Saku Sportingu jalgpallur
+  - kood: 205
+    nimi: Leila Talk
+    amet: Saku kosmeetikatuba, kosmeetik
+  - kood: 206
+    nimi: Eili Erg
+    amet: OÜ Usinla, juhatuse liige
+  - kood: 207
+    nimi: Külli Männik
+    amet: 
+  - kood: 208
+    nimi: Ken Kukkonen
+    amet: OÜ Männiku Saekoda, juhatuse liige
+  - kood: 209
+    nimi: Eimar Veldre
+    amet: Siseministeerium, nõunik
+  - kood: 210
+    nimi: Kalle Pungas
+    amet: Saue Vallavalitsus, abivallavanem
+  - kood: 211
+    nimi: Mai Stern
+    amet: Saku Tervisekeskus, perearst

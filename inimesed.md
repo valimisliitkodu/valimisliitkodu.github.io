@@ -2,8 +2,12 @@
 layout: default
 ---
 
+<div id="inimesed">
 {% for inimene in site.inimesed %}
-<h1>{{ inimene.kood }} {{inimene.nimi}}</h1>
-<p>{{ inimene.amet }}</p>
-<img src="pildid/{{ inimene.pilt }}">
+<div class="inimene">
+	<h1><span class="kood">{{ inimene.kood }}</span> {{inimene.nimi}}</h1>
+	<p>{{ inimene.amet }}</p>
+	<p><img src="pildid/{{ inimene.nimi }}.jpg"></p>
+</div>
 {% endfor %}
+</div>

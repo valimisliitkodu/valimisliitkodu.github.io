@@ -5,6 +5,26 @@ img.home-logo {
   margin-bottom: 30px;
 }
 
+.inimene {
+  padding: 20px;
+  width: 300px;
+  margin: 0;
+  display: inline-block;
+}
+
+.inimene img {
+  max-height: 200px;
+}
+
+.inimene .kood {
+  color: $kodu-green;
+  font-weight: bold;
+}
+
+.inimene:nth-child(2n) {
+  text-align: right;
+}
+
 
 /**
  * Site header
@@ -17,7 +37,7 @@ img.home-logo {
   // Positioning context for the mobile navigation icon
   position: relative;
 
-  background-color: #008c99;
+  background-color: $kodu-green;
 }
 
 .site-title {
