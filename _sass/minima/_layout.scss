@@ -30,6 +30,27 @@ img.home-logo {
   text-align: right;
 }
 
+.hidden-bullets {
+  display: none;
+  background-color: #eeeeee;
+  padding: 20px 10px;
+}
+
+button.toggle-tegevused {
+  color: white;
+  background-color: $kodu-green;
+  border: 0;
+  padding: 10px;
+  margin: 0;
+  font-size: 100%;
+}
+
+hr.tegevus-divider {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
 
 /**
  * Site header
