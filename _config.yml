@@ -24,6 +24,7 @@ inimesed:
   - kood: 192
     nimi: Lemmi Oro
     amet: Rahandusministeerium, osakonnajuhataja
+    tegevus: volikogu aseesimees
   - kood: 193
     nimi: Mall Petersen
     amet: Saku Tervisekeskus, perearst
@@ -33,24 +34,30 @@ inimesed:
   - kood: 195
     nimi: Merike Sisask
     amet: Tallinna Ülikool, sotsiaaltervishoiu professor
+    tegevus: volikogu hariduskomisjoni esimees
   - kood: 196
     nimi: Ahto Lutter
     amet: Tehnik-mehaanik, ettevõtja Kurtnas
   - kood: 197
     nimi: Lembit Makstin
     amet: teedeinsener, ettevõtja
+    tegevus: volikogu eelarvekomisjoni liige
   - kood: 198
     nimi: Kairi Zaletajev
     amet: Saku Gümnaasium, õpetaja
+    tegevus: volikogu sotsiaalkomisjoni esimees
   - kood: 199
     nimi: Anne Laos
     amet: kinnisvarahalduse asjatundja
+    tegevus: Saku Muusikakooli hoolekogu liige
   - kood: 200
     nimi: Tiina Ruut
     amet: Saku Tervisekeskus, pereõde
+    tegevus: volikogu keskkonnakomisjoni liige
   - kood: 201
     nimi: Argo Zirk
     amet: Saku Sporting, jalgpallitreener
+    tegevus: volikogu spordikomisjoni aseesimees
   - kood: 202
     nimi: Jan Harend
     amet: Saku Sporting, jalgpallitreener
@@ -60,6 +67,7 @@ inimesed:
   - kood: 204
     nimi: Hanna-Lisa Kuslap
     amet: Saku Gümnaasiumi õpilane, Saku Sportingu jalgpallur
+    tegevus: volikogu kultuuri- ja külaelukomisjoni liige
   - kood: 205
     nimi: Leila Talk
     amet: Saku kosmeetikatuba, kosmeetik
@@ -69,15 +77,18 @@ inimesed:
   - kood: 207
     nimi: Külli Männik
     amet: OÜ Magnum Medical, müügikonsultant
+    tegevus: Kajamaa Kooli hoolekogu liige
   - kood: 208
     nimi: Ken Kukkonen
     amet: OÜ Männiku Saekoda, juhatuse liige
   - kood: 209
     nimi: Eimar Veldre
     amet: Siseministeerium, korrakaitse- ja kriminaalpoliitika osakonna nõunik
+    tegevus: volikogu arendus- ja ettevõtluskomisjoni liige
   - kood: 210
     nimi: Kalle Pungas
     amet: Saue Vallavalitsus, abivallavanem
+    tegevus: Saku Vallavalitsuse liige
   - kood: 211
     nimi: Mai Stern
     amet: Saku Tervisekeskus, perearst
